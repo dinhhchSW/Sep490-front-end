@@ -6,7 +6,7 @@ export default function HomePage() {
     <div>
       <div className=' max-w-screen-cus mx-auto'>
         <DemoComponet/>
-        <div>hell work</div>
+        <div>hello world</div>
       </div>
     </div>
   )
